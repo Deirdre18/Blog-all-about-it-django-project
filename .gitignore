@@ -2,3 +2,4 @@
 *.pyc
 _pycache_/
 .venv_foo/
+env.py
